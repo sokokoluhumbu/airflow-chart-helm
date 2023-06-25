@@ -507,7 +507,7 @@ dags:
   git:
     ##
     ## url to clone the git repository
-    url: https://github.com/sokokoluhumbu/airflow-chart-helm.git
+    url: http://github.com/sokokoluhumbu/airflow-chart-helm.git
     ##
     ## branch name, tag or sha1 to reset to
     ref: master
